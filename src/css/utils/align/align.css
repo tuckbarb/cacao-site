@@ -5,7 +5,7 @@
 /** @define utilities */
 
 /**
- * Vertical alignment utilities
+ * Alignment utilities
  * Depends on an appropriate `display` value.
  */
 
@@ -24,3 +24,13 @@
 .u-alignTop {
     vertical-align: top !important;
 }
+
+.u-alignTextLeft {
+    text-align: left !important;
+}
+
+.u-alignTextRight {
+    text-align: right !important;
+}
+
+
