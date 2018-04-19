@@ -1,0 +1,33 @@
+/* =========================================================================== *\
+    Header
+\* =========================================================================== */
+
+
+/* @define Header */
+
+.Header {
+    align-content: center;
+    background-color: var(--c-orange);
+    display: flex;
+    height: 120px;
+    justify-content: center;
+    width: 100%;
+}
+
+
+.Header-title {
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+
+.Header-logo {
+    background-color: #fff;
+    border: #eee 12pt solid;
+    border-radius: 50%;
+    box-shadow: rgba(0, 0, 0, .4) 0 0 16px;
+    height: 140px;
+    margin: 10px;
+    padding: 10px;
+    width: 140px;
+}

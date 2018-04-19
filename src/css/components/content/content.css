@@ -1,0 +1,28 @@
+/* =========================================================================== *\
+    Content
+\* =========================================================================== */
+
+
+/* @define Content */
+
+.Content {
+    background: #fff;
+    height: 500px;
+    padding: 2rem;
+}
+
+
+@media (--c-bp-sm) {
+    .Content {
+        padding: 2rem 1rem;
+    }
+}
+
+.Content-headline {
+    color: #000;
+    font-size: 5em;
+}
+
+.Content-subheadline {
+    color: var(--c-chestnut);
+}
