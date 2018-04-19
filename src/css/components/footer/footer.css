@@ -9,6 +9,7 @@
 .Footer {
     background-color:var(--c-sand);
     color: #fff;
+    text-align: center;
 }
 
 .Footer-icon img {
