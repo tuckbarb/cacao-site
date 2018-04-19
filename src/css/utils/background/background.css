@@ -6,3 +6,7 @@
 .u-shadeBack {
     background-color: #eee !important;
 }
+
+.u-lineTop {
+    border-top: #000 0.4em solid;
+}
