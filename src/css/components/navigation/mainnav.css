@@ -23,7 +23,6 @@
     display: inline-block;
     font-family: var(--MainNav-fontFamily);
     font-size: var(--MainNav-fontSize);
-    font-weight: bold;
     height: 100%;
     line-height: var(--MainNav-lineHeight);
     list-style: none;
